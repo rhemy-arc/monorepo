@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/staking-delegation-routes",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/staking-delegation-routes": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/staking-delegation-routes",
+    "origin"
+  ]
+}
